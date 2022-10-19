@@ -1936,3 +1936,10 @@ A disabled fieldset is unusable and un-clickable. [Source](https://www.w3schools
 - [ ] <lb>
 - [x] <br>
 - [ ] <a>
+
+#### Q113. What is the correct HTML for inserting a background image?
+
+- [x] <body style="background-image:url(background.gif)">
+- [ ] <background img="background.gif">
+- [ ] <body bg="background.gif">
+- [ ] None of these
